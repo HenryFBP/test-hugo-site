@@ -1,6 +1,8 @@
 # test-hugo-site
 test hugo site. see https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
+It gets deployed to a branch called `gh-pages`.
+
 Make sure that your repo is named `<username>.github.io`.
 
 Also make sure your branch name is correct in `gh-pages.yml`:
